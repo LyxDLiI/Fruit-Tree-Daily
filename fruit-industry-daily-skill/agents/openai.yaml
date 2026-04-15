@@ -1,0 +1,3 @@
+display_name: 果业技术日报
+short_description: 每日汇总果业技术、行情与政策动态
+default_prompt: 请生成今天的果业技术日报，覆盖技术要点、市场行情、政策动态和季节提醒；每条来源必须附真实可点击的原文URL。
